@@ -46,7 +46,7 @@ class Mesa < Formula
   end
 
   patch :p1 do
-    url "http://www.linuxfromscratch.org/patches/blfs/svn/mesa-12.0.1-add_xdemos-1.patch"
+    url "http://www.linuxfromscratch.org/patches/blfs/7.10/mesa-12.0.1-add_xdemos-1.patch"
     sha256 "53492ca476e3df2de210f749983e17de4bec026a904db826acbcbd1ef83e71cd"
   end
 
